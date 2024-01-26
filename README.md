@@ -1,6 +1,6 @@
 # Hi, I'm Marcel 👋
 
-I'm a Data Science & AI Student with a background in software development and business psychology. I'm passionate about data science and AI, and I'm always eager to learn new things and solve challenging problems.
+I'm a Data Science & AI Student with a background in business psychology. I'm passionate about data science and AI, and I'm always eager to learn new things and solve challenging problems.
 
 ## 🛠️ My skills
 
