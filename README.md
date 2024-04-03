@@ -3,9 +3,9 @@
 
 - 📈 I'm currently working on a deep learning model for cryptocurrency price prediction. [Cardano Crystal Ball](https://github.com/lifelonglearner94/cardano_crystal_ball)
 
-- 🌱 I’m currently learning **PyTorch, SQL, Deep reinforcement learning**
+- 🌱 I’m currently learning **PyTorch, SQL, Deep reinforcement learning.**
 
-- 💬 Ask me about **Python, Scikit learn**
+- 💬 Ask me about **Python, Scikit learn.**
 
 - 📫 How to reach me **marcel.kn1994@hotmail.de**
 
