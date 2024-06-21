@@ -5,9 +5,9 @@
 
 - 🔭 Currently building: **[Cardano Crystal Ball](https://github.com/lifelonglearner94/cardano_crystal_ball)** - A deep learning model for cryptocurrency price prediction.
 
-- 🌱 Learning: **PyTorch | SQL | Deep Reinforcement Learning**
+- 🌱 Learning: **SQL | Deep Reinforcement Learning**
 
-- 💬 Ask me about: ** Time Series | Scikit-learn | Tensorflow**
+- 💬 Ask me about: **Time Series | Scikit-learn | Tensorflow**
 
 - 📫 Connect with me: **[Email](mailto:marcel.kn1994@hotmail.de)** | **[LinkedIn](https://linkedin.com/in/marcel-knauf)** | **[Kaggle](https://kaggle.com/marcelknauf)**
 
