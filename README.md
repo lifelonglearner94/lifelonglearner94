@@ -1,5 +1,5 @@
 <h1 align="center">👋 Welcome to Marcel Knauf's GitHub!</h1>
-<h3 align="center">Passionate Data Scientist | Deep Learning Enthusiast | Cryptocurrency Wizard 🚀</h3>
+<h3 align="center">Passionate Data Scientist | Deep Learning Enthusiast | Time Series Wizard 🚀</h3>
 
 <p align="center">Let's dive into the world of data and algorithms!</p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 Learning: **PyTorch | SQL | Deep Reinforcement Learning**
 
-- 💬 Ask me about: **Python | Scikit-learn | Data Visualization**
+- 💬 Ask me about: ** Time Series | Scikit-learn | Tensorflow**
 
 - 📫 Connect with me: **[Email](mailto:marcel.kn1994@hotmail.de)** | **[LinkedIn](https://linkedin.com/in/marcel-knauf)** | **[Kaggle](https://kaggle.com/marcelknauf)**
 
