@@ -3,7 +3,7 @@
 
 <p align="center">Let's dive into the world of data and algorithms!</p>
 
-- 🔭 Currently building: **[Cardano Crystal Ball](https://github.com/lifelonglearner94/cardano_crystal_ball)** - A deep learning model for cryptocurrency price prediction.
+- 🔭 Currently building: **[Kaggle Competition e-commerce order forecasting](https://github.com/lifelonglearner94/e-commerce_orders_forecasting)** 
 
 - 🌱 Learning: **SQL | Deep Reinforcement Learning**
 
