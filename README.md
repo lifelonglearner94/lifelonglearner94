@@ -5,7 +5,7 @@
 
 - 🔭 Currently building: **[Kaggle Competition e-commerce order forecasting](https://github.com/lifelonglearner94/e-commerce_orders_forecasting)** 
 
-- 🌱 Learning: **SQL | Deep Reinforcement Learning**
+- 🌱 Learning: **SQL | RAG**
 
 - 💬 Ask me about: **Time Series | Scikit-learn | Tensorflow**
 
