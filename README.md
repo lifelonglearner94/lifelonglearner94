@@ -3,7 +3,7 @@
 
 <p align="center">Let's dive into the world of data and algorithms!</p>
 
-- 🔭 Currently building: **[Kaggle Competition e-commerce order forecasting](https://github.com/lifelonglearner94/e-commerce_orders_forecasting)** 
+- 🔭 Currently building: **[PoliticAnalyze - AI powered analysis of the german election programs](https://github.com/lifelonglearner94/PoliticAnalyze)** 
 
 - 🌱 Learning: **SQL | RAG**
 
