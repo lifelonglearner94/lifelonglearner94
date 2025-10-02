@@ -3,11 +3,11 @@
 
 <p align="center">Let's dive into the world of data and algorithms!</p>
 
-- 🔭 Currently building: **[PoliticAnalyze - AI powered analysis of the german election programs](https://github.com/lifelonglearner94/PoliticAnalyze)** 
+- 🔭 Currently building: **[RAG-System for chatting with scientific Papers]([https://github.com/lifelonglearner94/PoliticAnalyze](https://github.com/lifelonglearner94/talk-with-pdfs-rag))** 
 
-- 🌱 Learning: **SQL | RAG**
+- 🌱 Learning: **Agentic Systems**
 
-- 💬 Ask me about: **Time Series | Scikit-learn | Tensorflow**
+- 💬 Ask me about: **LangGraph | Time Series | Scikit-learn**
 
 - 📫 Connect with me: **[Email](mailto:marcel.kn1994@hotmail.de)** | **[LinkedIn](https://linkedin.com/in/marcel-knauf)** | **[Kaggle](https://kaggle.com/marcelknauf)**
 
