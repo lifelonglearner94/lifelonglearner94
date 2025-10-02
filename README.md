@@ -3,7 +3,7 @@
 
 <p align="center">Let's dive into the world of data and algorithms!</p>
 
-- 🔭 Currently building: **[RAG-System for chatting with scientific Papers]([https://github.com/lifelonglearner94/PoliticAnalyze](https://github.com/lifelonglearner94/talk-with-pdfs-rag))** 
+- 🔭 Currently building: **[RAG-System for chatting with scientific Papers](https://github.com/lifelonglearner94/talk-with-pdfs-rag)** 
 
 - 🌱 Learning: **Agentic Systems**
 
