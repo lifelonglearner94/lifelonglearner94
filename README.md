@@ -3,7 +3,7 @@
 
 <p align="center">Let's dive into the world of data and algorithms!</p>
 
-- 🔭 Currently building: **[RAG-System for chatting with scientific Papers](https://github.com/lifelonglearner94/talk-with-pdfs-rag)** 
+- 🔭 Currently building: **[A Gold standard research repository comparing a ViT versus a new nested Memory architecture on V-JEPA-2 Encodings](https://github.com/lifelonglearner94/masterthesis_training_pipeline)** 
 
 - 🌱 Learning: **Agentic Systems**
 
